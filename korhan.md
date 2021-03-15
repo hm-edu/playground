@@ -1,3 +1,0 @@
-Hallo
-
-Neue Datei
