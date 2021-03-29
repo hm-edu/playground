@@ -3,8 +3,6 @@ Public playground for hm.edu students
 
 Neuer Absatz
 
-Noch ein Absatz
-
-Ein dritter Absatz
-
-Ein vierter Absatz
+* list
+* list
+* 
